@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ej1c123</string>
+    <string name="regresar">REGRESAR</string>
+    <string name="salir">SALIR</string>
+    <string name="mostrar_actividad">MOSTRAR NUEVA ACTIVITY</string>
+</resources>
