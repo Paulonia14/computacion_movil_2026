@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TPCompMovil2d">
+        <activity
+            android:name=".ViewActivity"
+            android:exported="false"
+            android:label="Detalles del Contacto"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name=".NewActivity"
+            android:exported="false"
+            android:label="@string/title_activity_new"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Soporte para versiones anteriores de Android -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name=".EditActivity"
+            android:exported="false"
+            android:label="Editar Contacto"
+            android:parentActivityName=".ViewActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ViewActivity" />
+        </activity>
+        <activity
+            android:name=".New_Activity"
+            android:exported="false"
+            android:label="@string/title_activity_new"
+            android:theme="@style/Theme.TPCompMovil2d" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
