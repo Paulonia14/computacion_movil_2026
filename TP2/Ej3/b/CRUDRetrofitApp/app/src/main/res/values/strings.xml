@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRUD Retrofit App</string>
+    <string name="product_string">Product:</string>
+    <string name="crear_producto">Crear producto</string>
+    <string name="precio_del_producto">Precio del producto:</string>
+    <string name="nombre_del_producto">Nombre del producto:</string>
+    <string name="confirmar_edicion">Confirmar edición</string>
+</resources>
