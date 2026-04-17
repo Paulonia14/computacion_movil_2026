@@ -18,6 +18,7 @@ import java.util.List;
 
 public class GestionarLibroActivity extends AppCompatActivity implements View.OnClickListener {
 
+    String origen = "";
     Context context;
     EditText txttitulo, txtsubtitulo, txtautor, txtisbn, txtaniopublicacion, txtprecio;
     int id;
@@ -49,6 +50,7 @@ public class GestionarLibroActivity extends AppCompatActivity implements View.On
         btnborrar.setOnClickListener(this);
 
         Bundle bundle = getIntent().getExtras();
+        origen = bundle.getString("origen", "");
 
         if (bundle != null){
             id = bundle.getInt("id", 0);
@@ -92,7 +94,6 @@ public class GestionarLibroActivity extends AppCompatActivity implements View.On
 
         return libro;
     }
-
     private void guardar(){
         Libro libro = llenarDatosLibro();
 
@@ -103,7 +104,10 @@ public class GestionarLibroActivity extends AppCompatActivity implements View.On
             LibroArchivo.guardarLibro(this, libro);
 
             Toast.makeText(context, "Guardado nuevo ok", Toast.LENGTH_LONG).show();
+
             limpiarCampos();
+
+            finish(); // 👈 SIEMPRE al final
 
         } else {
             List<Libro> lista = LibroArchivo.leerLibros(this);
@@ -121,6 +125,8 @@ public class GestionarLibroActivity extends AppCompatActivity implements View.On
             btnborrar.setEnabled(false);
 
             Toast.makeText(context, "Actualizado ok", Toast.LENGTH_LONG).show();
+
+            finish(); // 👈 SIEMPRE al final
         }
     }
 

@@ -23,6 +23,12 @@ public class ListadoLibrosActivity extends AppCompatActivity {
     ArrayList<Integer> idLibros;
 
     @Override
+    protected void onResume() {
+        super.onResume();
+        llenarVistaView();
+    }
+
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_listado_libros);
@@ -44,6 +50,7 @@ public class ListadoLibrosActivity extends AppCompatActivity {
             Libro libro = listaLibros.get(pos);
 
             Bundle bundle = new Bundle();
+            bundle.putString("origen", "lista");
             bundle.putInt("id", libro.getId());
             bundle.putString("titulo", libro.getTitulo());
             bundle.putString("subtitulo", libro.getSubtitulo());
