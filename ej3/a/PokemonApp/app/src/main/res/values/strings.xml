@@ -3,4 +3,6 @@
     <string name="title_menu">¡Consulta la Pokedex!</string>
     <string name="query_text">Nombre del pokemon:</string>
     <string name="query_button_text">Consultar</string>
+    <string name="height_text">Altura:</string>
+    <string name="weight_text">Peso:</string>
 </resources>
