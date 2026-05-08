@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#3DDC84</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Agenda</string>
+    <string name="btn_save_registry">Guardar registro</string>
+    <string name="btn_update_registry">Actualizar registro</string>
+    <string name="hint_email">Correo:</string>
+    <string name="hint_name">Nombre:</string>
+    <string name="hint_phone">Telefono:</string>
+    <string name="new_menu">Nuevo registro</string>
+    <string name="title_activity_new">New_Activity</string>
+    <string name="view_email_label">Correo:</string>
+    <string name="view_name_label">Nombre:</string>
+    <string name="view_phone_label">Telefono:</string>
+    <style name="Base.Theme.TPCompMovil2d" parent="Theme.Material3.DayNight">
+        
+        
+    </style>
+    <style name="Theme.TPCompMovil2d" parent="Base.Theme.TPCompMovil2d"/>
+</resources>

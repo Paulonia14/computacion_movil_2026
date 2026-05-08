@@ -1,0 +1,7 @@
+com.example.mapsaplication.app-pngs-0 D:\Proyectos\computacion_movil_2026\TP2\Ej5\ej5a\app\build\generated\res\pngs\debug
+com.example.mapsaplication.app-updated_navigation_xml-1 D:\Proyectos\computacion_movil_2026\TP2\Ej5\ej5a\app\build\generated\updated_navigation_xml\debug
+com.example.mapsaplication.app-packageDebugResources-2 D:\Proyectos\computacion_movil_2026\TP2\Ej5\ej5a\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.mapsaplication.app-packageDebugResources-3 D:\Proyectos\computacion_movil_2026\TP2\Ej5\ej5a\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.mapsaplication.app-debug-4 D:\Proyectos\computacion_movil_2026\TP2\Ej5\ej5a\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.mapsaplication.app-debug-5 D:\Proyectos\computacion_movil_2026\TP2\Ej5\ej5a\app\src\debug\res
+com.example.mapsaplication.app-main-6 D:\Proyectos\computacion_movil_2026\TP2\Ej5\ej5a\app\src\main\res

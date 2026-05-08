@@ -1,0 +1,419 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\58de818cd3f55eb14ab22ae2be5a9b90\workspace\transformed\material-1.13.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\560558a5d13acd6f64e4e2cc53016bfe\workspace\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\203139d89f3091e321e97035cf395459\workspace\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a4a1aec8915d1d0be27c726f2e9572c\workspace\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\881b54d6cab5adf464c8df2438a45f07\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\9330e56fa5b89851a6a5d9263ae7f8fe\workspace\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1f67ebbd9de8c853c7fc054cbe598083\workspace\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\21b5115c969a0bc986c9a33662d1645e\workspace\transformed\play-services-base-18.9.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\e5eb1e18894e9950a7285fd20b39560b\workspace\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\9f0b6e1cd27a3853e96b210dcff70ccf\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\27cbc0f60b67d46e3d8239c4ce32ef72\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d3d04308d09d133ad5fd64a2c5cd7df3\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\42fd7fe0a671de52a7dcb55de68f8e9f\workspace\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d34f31a390f50de97a3c1daa0bbdbe70\workspace\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cded30b07f9185cb4009add82a12caa8\workspace\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\6586c8e925a2e5cb1aa424b68a4f4773\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cf53fdb1f30bd88080d3227a58be8cd1\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4b82925295efe9d271b58f054dfbb474\workspace\transformed\graphics-shapes-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\903512bf3826367612a08e9c82f6c261\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4b11de46e1b736e2d097d5e02a1745e9\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\b6c5c00a8f11de74f94760ad04faf494\workspace\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\a9f5979a7503e9760ac7ae8a47e05d19\workspace\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\23f95349163a574678d4cee2df410d1e\workspace\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4755cec438059835ff034db9aafedfe6\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\ef37ba04d367ed328e438810f261dcf0\workspace\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cf02bf405fb8093ce7aece676c53767a\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\8be37ccc2722ce3a20a9accb6a93444c\workspace\transformed\core-ktx-1.18.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\30018977e32726f4d35d7f19e2afac37\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d5b631d9579056da8760f8ea3996b255\workspace\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\b668adc020615344cc2e4f44dad88b55\workspace\transformed\navigationevent\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\fa662d4c98e36a75d38992a6a1c001ed\workspace\transformed\datastore-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\f0565e93e85ff633d10c267a573aeba0\workspace\transformed\datastore-preferences-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\153eba762ace91fcba7c0fd560fc048d\workspace\transformed\datastore-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\71d2fa3fd96f38efcf80a1f1b765a20c\workspace\transformed\datastore-preferences-release\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0a9e33f9eea705aa0a31c203e07ac81c\workspace\transformed\play-services-tasks-18.4.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\aac6dd447b3a7aabbb669dcc5d4e0d8f\workspace\transformed\play-services-basement-18.9.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\23684c30401237f7a2ddff69834a9670\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.13.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\93725bc6ad63c8f00646eed4ebea7335\workspace\transformed\activity-1.13.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4df842cfd498595cc692a28479ae7d74\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0dcda2deac8eb6090a0873308c923897\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\6299126a2603c9c28206b7b3e2411bbc\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d58dde5dbd62ec51650c5bb754798a62\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\f96d460275633f7a837cc6de1e4dd875\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4e988c9a9ebde32a1e09374785aea7db\workspace\transformed\firebase-components-19.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d5cda68d87141677182217b03792651\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0752c84f839d557eff5e38eb3a32c8d4\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\5c700d53105c920511f98d4e74722814\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1abb8dcf4634383d0c8321fb868b1293\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c0cb93a92ba2d9d15b5fa90838cd8304\workspace\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cb98155ab5bd563a485854148505830f\workspace\transformed\grpc-android-1.62.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4b53a70d745e034fbdb628a3c95a5046\workspace\transformed\protolite-well-known-types-18.0.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:7:5-25:19
+INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\58de818cd3f55eb14ab22ae2be5a9b90\workspace\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\58de818cd3f55eb14ab22ae2be5a9b90\workspace\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\560558a5d13acd6f64e4e2cc53016bfe\workspace\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\560558a5d13acd6f64e4e2cc53016bfe\workspace\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\9330e56fa5b89851a6a5d9263ae7f8fe\workspace\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\9330e56fa5b89851a6a5d9263ae7f8fe\workspace\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\21b5115c969a0bc986c9a33662d1645e\workspace\transformed\play-services-base-18.9.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\21b5115c969a0bc986c9a33662d1645e\workspace\transformed\play-services-base-18.9.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\e5eb1e18894e9950a7285fd20b39560b\workspace\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\e5eb1e18894e9950a7285fd20b39560b\workspace\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4755cec438059835ff034db9aafedfe6\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4755cec438059835ff034db9aafedfe6\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:28:5-89
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0a9e33f9eea705aa0a31c203e07ac81c\workspace\transformed\play-services-tasks-18.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0a9e33f9eea705aa0a31c203e07ac81c\workspace\transformed\play-services-tasks-18.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\aac6dd447b3a7aabbb669dcc5d4e0d8f\workspace\transformed\play-services-basement-18.9.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\aac6dd447b3a7aabbb669dcc5d4e0d8f\workspace\transformed\play-services-basement-18.9.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0dcda2deac8eb6090a0873308c923897\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0dcda2deac8eb6090a0873308c923897\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0752c84f839d557eff5e38eb3a32c8d4\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0752c84f839d557eff5e38eb3a32c8d4\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:15:9-52
+	android:dataExtractionRules
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:9:9-65
+activity#com.example.retrofit_intro.MainActivity
+ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml
+INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\58de818cd3f55eb14ab22ae2be5a9b90\workspace\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\58de818cd3f55eb14ab22ae2be5a9b90\workspace\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\560558a5d13acd6f64e4e2cc53016bfe\workspace\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\560558a5d13acd6f64e4e2cc53016bfe\workspace\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\203139d89f3091e321e97035cf395459\workspace\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\203139d89f3091e321e97035cf395459\workspace\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a4a1aec8915d1d0be27c726f2e9572c\workspace\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a4a1aec8915d1d0be27c726f2e9572c\workspace\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\881b54d6cab5adf464c8df2438a45f07\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\881b54d6cab5adf464c8df2438a45f07\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\9330e56fa5b89851a6a5d9263ae7f8fe\workspace\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\9330e56fa5b89851a6a5d9263ae7f8fe\workspace\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1f67ebbd9de8c853c7fc054cbe598083\workspace\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1f67ebbd9de8c853c7fc054cbe598083\workspace\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\21b5115c969a0bc986c9a33662d1645e\workspace\transformed\play-services-base-18.9.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\21b5115c969a0bc986c9a33662d1645e\workspace\transformed\play-services-base-18.9.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\e5eb1e18894e9950a7285fd20b39560b\workspace\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\e5eb1e18894e9950a7285fd20b39560b\workspace\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:19:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\9f0b6e1cd27a3853e96b210dcff70ccf\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\9f0b6e1cd27a3853e96b210dcff70ccf\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\27cbc0f60b67d46e3d8239c4ce32ef72\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\27cbc0f60b67d46e3d8239c4ce32ef72\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d3d04308d09d133ad5fd64a2c5cd7df3\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d3d04308d09d133ad5fd64a2c5cd7df3\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\42fd7fe0a671de52a7dcb55de68f8e9f\workspace\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\42fd7fe0a671de52a7dcb55de68f8e9f\workspace\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d34f31a390f50de97a3c1daa0bbdbe70\workspace\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d34f31a390f50de97a3c1daa0bbdbe70\workspace\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cded30b07f9185cb4009add82a12caa8\workspace\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cded30b07f9185cb4009add82a12caa8\workspace\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\6586c8e925a2e5cb1aa424b68a4f4773\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\6586c8e925a2e5cb1aa424b68a4f4773\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cf53fdb1f30bd88080d3227a58be8cd1\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cf53fdb1f30bd88080d3227a58be8cd1\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4b82925295efe9d271b58f054dfbb474\workspace\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4b82925295efe9d271b58f054dfbb474\workspace\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\903512bf3826367612a08e9c82f6c261\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\903512bf3826367612a08e9c82f6c261\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4b11de46e1b736e2d097d5e02a1745e9\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4b11de46e1b736e2d097d5e02a1745e9\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\b6c5c00a8f11de74f94760ad04faf494\workspace\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\b6c5c00a8f11de74f94760ad04faf494\workspace\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\a9f5979a7503e9760ac7ae8a47e05d19\workspace\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\a9f5979a7503e9760ac7ae8a47e05d19\workspace\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\23f95349163a574678d4cee2df410d1e\workspace\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\23f95349163a574678d4cee2df410d1e\workspace\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4755cec438059835ff034db9aafedfe6\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4755cec438059835ff034db9aafedfe6\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\ef37ba04d367ed328e438810f261dcf0\workspace\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\ef37ba04d367ed328e438810f261dcf0\workspace\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cf02bf405fb8093ce7aece676c53767a\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cf02bf405fb8093ce7aece676c53767a\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\8be37ccc2722ce3a20a9accb6a93444c\workspace\transformed\core-ktx-1.18.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\8be37ccc2722ce3a20a9accb6a93444c\workspace\transformed\core-ktx-1.18.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\30018977e32726f4d35d7f19e2afac37\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\30018977e32726f4d35d7f19e2afac37\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d5b631d9579056da8760f8ea3996b255\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d5b631d9579056da8760f8ea3996b255\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\b668adc020615344cc2e4f44dad88b55\workspace\transformed\navigationevent\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\b668adc020615344cc2e4f44dad88b55\workspace\transformed\navigationevent\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\fa662d4c98e36a75d38992a6a1c001ed\workspace\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\fa662d4c98e36a75d38992a6a1c001ed\workspace\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\f0565e93e85ff633d10c267a573aeba0\workspace\transformed\datastore-preferences-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\f0565e93e85ff633d10c267a573aeba0\workspace\transformed\datastore-preferences-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\153eba762ace91fcba7c0fd560fc048d\workspace\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\153eba762ace91fcba7c0fd560fc048d\workspace\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\71d2fa3fd96f38efcf80a1f1b765a20c\workspace\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\71d2fa3fd96f38efcf80a1f1b765a20c\workspace\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0a9e33f9eea705aa0a31c203e07ac81c\workspace\transformed\play-services-tasks-18.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0a9e33f9eea705aa0a31c203e07ac81c\workspace\transformed\play-services-tasks-18.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\aac6dd447b3a7aabbb669dcc5d4e0d8f\workspace\transformed\play-services-basement-18.9.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\aac6dd447b3a7aabbb669dcc5d4e0d8f\workspace\transformed\play-services-basement-18.9.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\23684c30401237f7a2ddff69834a9670\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\23684c30401237f7a2ddff69834a9670\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.13.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\93725bc6ad63c8f00646eed4ebea7335\workspace\transformed\activity-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.13.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\93725bc6ad63c8f00646eed4ebea7335\workspace\transformed\activity-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4df842cfd498595cc692a28479ae7d74\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4df842cfd498595cc692a28479ae7d74\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0dcda2deac8eb6090a0873308c923897\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0dcda2deac8eb6090a0873308c923897\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\6299126a2603c9c28206b7b3e2411bbc\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\6299126a2603c9c28206b7b3e2411bbc\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d58dde5dbd62ec51650c5bb754798a62\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\d58dde5dbd62ec51650c5bb754798a62\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\f96d460275633f7a837cc6de1e4dd875\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\f96d460275633f7a837cc6de1e4dd875\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4e988c9a9ebde32a1e09374785aea7db\workspace\transformed\firebase-components-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4e988c9a9ebde32a1e09374785aea7db\workspace\transformed\firebase-components-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d5cda68d87141677182217b03792651\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d5cda68d87141677182217b03792651\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0752c84f839d557eff5e38eb3a32c8d4\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0752c84f839d557eff5e38eb3a32c8d4\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\5c700d53105c920511f98d4e74722814\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\5c700d53105c920511f98d4e74722814\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1abb8dcf4634383d0c8321fb868b1293\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1abb8dcf4634383d0c8321fb868b1293\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c0cb93a92ba2d9d15b5fa90838cd8304\workspace\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c0cb93a92ba2d9d15b5fa90838cd8304\workspace\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cb98155ab5bd563a485854148505830f\workspace\transformed\grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cb98155ab5bd563a485854148505830f\workspace\transformed\grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4b53a70d745e034fbdb628a3c95a5046\workspace\transformed\protolite-well-known-types-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4b53a70d745e034fbdb628a3c95a5046\workspace\transformed\protolite-well-known-types-18.0.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Proyectos\computacion_movil_2026\Retrofit_intro\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:10:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cb98155ab5bd563a485854148505830f\workspace\transformed\grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\cb98155ab5bd563a485854148505830f\workspace\transformed\grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:10:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:16:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:15:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:26.1.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\2a823b9b3af47567ec5e99ad440f7389\workspace\transformed\firebase-firestore-26.1.2\AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\21b5115c969a0bc986c9a33662d1645e\workspace\transformed\play-services-base-18.9.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\21b5115c969a0bc986c9a33662d1645e\workspace\transformed\play-services-base-18.9.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\21b5115c969a0bc986c9a33662d1645e\workspace\transformed\play-services-base-18.9.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\21b5115c969a0bc986c9a33662d1645e\workspace\transformed\play-services-base-18.9.0\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\c6f0e896f8c14f08037e3c963e1768be\workspace\transformed\firebase-common-22.0.1\AndroidManifest.xml:36:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4755cec438059835ff034db9aafedfe6\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4755cec438059835ff034db9aafedfe6\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0752c84f839d557eff5e38eb3a32c8d4\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\0752c84f839d557eff5e38eb3a32c8d4\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\72f0dea70d9c392b0df4d8f0317af634\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4755cec438059835ff034db9aafedfe6\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4755cec438059835ff034db9aafedfe6\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\4755cec438059835ff034db9aafedfe6\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+permission#com.example.retrofit_intro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.retrofit_intro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\7d3b768b36447e20084db4b1cfbb7974\workspace\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\aac6dd447b3a7aabbb669dcc5d4e0d8f\workspace\transformed\play-services-basement-18.9.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\aac6dd447b3a7aabbb669dcc5d4e0d8f\workspace\transformed\play-services-basement-18.9.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\aac6dd447b3a7aabbb669dcc5d4e0d8f\workspace\transformed\play-services-basement-18.9.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rysen Winters\.gradle\caches\9.3.1\transforms\1e8d4b792406ab69fb05b8311146c9f4\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
