@@ -1,7 +1,0 @@
-com.example.tp_compmovil_2d.app-pngs-0 D:\Proyectos\computacion_movil_2026\ej2d\app\build\generated\res\pngs\debug
-com.example.tp_compmovil_2d.app-updated_navigation_xml-1 D:\Proyectos\computacion_movil_2026\ej2d\app\build\generated\updated_navigation_xml\debug
-com.example.tp_compmovil_2d.app-packageDebugResources-2 D:\Proyectos\computacion_movil_2026\ej2d\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.tp_compmovil_2d.app-packageDebugResources-3 D:\Proyectos\computacion_movil_2026\ej2d\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.tp_compmovil_2d.app-debug-4 D:\Proyectos\computacion_movil_2026\ej2d\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.tp_compmovil_2d.app-debug-5 D:\Proyectos\computacion_movil_2026\ej2d\app\src\debug\res
-com.example.tp_compmovil_2d.app-main-6 D:\Proyectos\computacion_movil_2026\ej2d\app\src\main\res
