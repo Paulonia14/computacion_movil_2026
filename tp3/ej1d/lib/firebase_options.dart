@@ -30,10 +30,7 @@ class DefaultFirebaseOptions {
           'you can reconfigure this by running the FlutterFire CLI again.',
         );
       case TargetPlatform.windows:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for windows - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
-        );
+        return windows;
       case TargetPlatform.linux:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for linux - '
@@ -47,29 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: ' ',
-    appId: ' ',
-    messagingSenderId: ' ',
-    projectId: ' ',
-    authDomain: ' ',
-    storageBucket: ' ',
-    measurementId: ' ',
+    apiKey: 'AIzaSyBDRq9ZPRlsvlkVBuPP6e9nAUoQeQuszEc',
+    appId: '1:680148460782:web:dfbc5379edc53eb9b5bfff',
+    messagingSenderId: '680148460782',
+    projectId: 'ecommerce-3e245',
+    authDomain: 'ecommerce-3e245.firebaseapp.com',
+    storageBucket: 'ecommerce-3e245.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: ' ',
-    appId: ' ',
-    messagingSenderId: ' ',
-    projectId: ' ',
-    storageBucket: ' ',
+    apiKey: 'AIzaSyCbpLVH8xfOA23LdwXExBFOJQ6DuRhwVHM',
+    appId: '1:680148460782:android:191338b5ace84ab4b5bfff',
+    messagingSenderId: '680148460782',
+    projectId: 'ecommerce-3e245',
+    storageBucket: 'ecommerce-3e245.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: ' ',
-    appId: ' ',
-    messagingSenderId: ' ',
-    projectId: ' ',
-    storageBucket: ' ',
-    iosBundleId: ' ',
+    apiKey: 'AIzaSyDe1WBsdIJI7pRkVCRa1IssToP2_DJAaOs',
+    appId: '1:680148460782:ios:56c20a3921bab473b5bfff',
+    messagingSenderId: '680148460782',
+    projectId: 'ecommerce-3e245',
+    storageBucket: 'ecommerce-3e245.firebasestorage.app',
+    iosBundleId: 'com.example.onlineStoreTk',
   );
+
+  static const FirebaseOptions windows = FirebaseOptions(
+    apiKey: 'AIzaSyBDRq9ZPRlsvlkVBuPP6e9nAUoQeQuszEc',
+    appId: '1:680148460782:web:967ce9d0086b56deb5bfff',
+    messagingSenderId: '680148460782',
+    projectId: 'ecommerce-3e245',
+    authDomain: 'ecommerce-3e245.firebaseapp.com',
+    storageBucket: 'ecommerce-3e245.firebasestorage.app',
+  );
+
 }
