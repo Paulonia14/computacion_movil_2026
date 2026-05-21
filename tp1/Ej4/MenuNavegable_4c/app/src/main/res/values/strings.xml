@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MenuNavegable_4c</string>
+    <string name="open">Abrir menú</string>
+    <string name="close">Cerrar menú</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Fotos</string>
+    <string name="menu_ciudades">Ciudades</string>
+
+</resources>
