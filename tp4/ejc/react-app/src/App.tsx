@@ -1,11 +1,24 @@
 import Card, { CardBody } from "./components/Card.tsx";
 import List from "./components/List.tsx";
+import Button, { ButtonText } from "./components/Button.tsx";
+import { useState } from "react";
 function App() {
-  const list = ["item uno", "item dos", "item tres"];
+  const list: string[] = ["Colapinto", "Hamilton", "Russel"];
+  const handleSelect = (element: string) => {
+    console.log(element);
+  };
+  const [isPressed, setIsPressed] = useState(false);
+  const handleOnClick = () => {
+    setIsPressed(!isPressed);
+  };
+
   return (
     <Card>
       <CardBody title={"Hola malditisimo mundo"} text={"texto tesxto texto"} />
-      <List data={list} />
+      {list.length !== 0 && <List data={list} onSelect={handleSelect} />}
+      <Button onClick={() => handleOnClick()} isPressed={isPressed}>
+        <ButtonText text={"Botón"}></ButtonText>
+      </Button>
     </Card>
   );
 }
